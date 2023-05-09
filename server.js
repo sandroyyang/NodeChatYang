@@ -1,4 +1,4 @@
-const WebSocket = require('websocket')
+const WebSocket = require('ws')
 const express = require('express')
 const moment = require('moment')
 const app = express()
